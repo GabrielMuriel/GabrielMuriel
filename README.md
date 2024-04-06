@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-⚡ Fun fact: With an insatiable passion for gaming fueling my educational journey, I delved into the realm of coding to not only enhance my gaming experiences but also to apply the principles learned to various aspects of life. Gaming has been more than just a pastime. It's been my driving force, shaping my educational pursuits and igniting my curiosity in coding.
+##⚡ Fun fact: 
+<br>
+With an insatiable passion for gaming fueling my educational journey, I delved into the realm of coding to not only enhance my gaming experiences but also to apply the principles learned to various aspects of life. Gaming has been more than just a pastime. It's been my driving force, shaping my educational pursuits and igniting my curiosity in coding.
+<br>
 <br>
 📫 How to reach me: [murielgbrl@gmail.com](mailto:murielgbrl@gmail.com)
