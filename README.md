@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> About Me</h3>
+<h2> About Me</h2>
 
-<h2>⚡ Fun fact: </h2> 
+###⚡ Fun fact: 
 <br>
 With an insatiable passion for gaming fueling my educational journey, I delved into the realm of coding to not only enhance my gaming experiences but also to apply the principles learned to various aspects of life. Gaming has been more than just a pastime. It's been my driving force, shaping my educational pursuits and igniting my curiosity in coding.
 <br>
 <br>
-<h2>📫 How to reach me:</h2>  
+###📫 How to reach me:
 <br> 
 [murielgbrl@gmail.com](mailto:murielgbrl@gmail.com)
