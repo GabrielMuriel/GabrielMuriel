@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ### About Me
 ⚡ Fun fact: With an insatiable passion for gaming fueling my educational journey, I delved into the realm of coding to not only enhance my gaming experiences but also to apply the principles learned to various aspects of life. Gaming has been more than just a pastime. It's been my driving force, shaping my educational pursuits and igniting my curiosity in coding.
+<br>
 📫 How to reach me:- Email: [murielgbrl@gmail.com](mailto:murielgbrl@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murielgbrl@gmail.com)
