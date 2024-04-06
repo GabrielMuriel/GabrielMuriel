@@ -23,4 +23,5 @@ With an insatiable passion for gaming fueling my educational journey, I delved i
 <br>
 <br>
 <h2>📫 How to reach me:</h2>  
-<br> [murielgbrl@gmail.com](mailto:murielgbrl@gmail.com)
+<br> 
+[murielgbrl@gmail.com](mailto:murielgbrl@gmail.com)
